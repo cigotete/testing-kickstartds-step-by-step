@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@kickstartds/base": "^2.2.0",
     "react": "17",
     "react-dom": "17"
   }
