@@ -4,6 +4,8 @@
   "description": "Learning process related to implement KickstartDS.",
   "main": "dist/index.js",
   "scripts": {
+    "init-tokens": "kickstartDS tokens init",
+    "build-tokens": "kickstartDS tokens compile",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
